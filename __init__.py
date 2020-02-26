@@ -1,1 +1,1 @@
-from .PerformanceReport import PerformanceReport
+from .report import PerformanceReport
